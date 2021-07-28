@@ -57,7 +57,7 @@ p{
     
 }
 .about img{
-    width: 48%;
+    width: 54%;
     padding-left: 5%;
     padding-top: 15px;
 }
@@ -94,6 +94,7 @@ p{
 }
 .recipes-box h2{
     padding-left: 10px;
+    color: black;
 
 }
 .subscriber{
