@@ -79,24 +79,30 @@ p{
     width: 25%;
     float: left;
     margin-left: 6%;
-    padding-left: 7px;
+    padding-left: 3px;
     padding-top: 10px;
     box-shadow: 5px 7px 40px gray ;
-    height: 93%;
+    height: 105%;
     border-radius: 30px;
 }
 .recipes-box img{
     width: 95%;
-    padding-left: 5px;
+    padding-left: 10px;
 }
+.recipes-box p{
+    padding-left: 10px;
+}
+.recipes-box h2{
+    padding-left: 10px;
 
+}
 .subscriber{
     margin-bottom: -300px;
     margin-left: 5%;
     width: 90%;   
 }
 .subscriber-extra{
-    margin-top: 140px;
+    margin-top: 200px;
     box-shadow: 5px 7px 40px gray;
     border-radius: 30px;
     height: 40%;
